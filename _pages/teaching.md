@@ -8,8 +8,10 @@ author_profile: true
 {% include base_path %}
 
 
-**Toulouse School of Economics**
-======
+*Toulouse School of Economics*
+
+---
+
 Advanced Econometrics, 4th year  
 Teaching assistant for Pascal Lavergne \& Francois Poinas  
 Fall 2021, Fall 2020  
@@ -27,7 +29,9 @@ Teaching assistant, Fall 2020
 
 
 **Johannes Gutenberg Universität Mainz**
-======
+
+---
+
 Mathematics, 1st year  
 Teaching assistant for Reyn van Ewijk  
 Fall 2014
