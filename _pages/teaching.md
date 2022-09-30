@@ -28,7 +28,7 @@ Spring 2020
 Teaching assistant, Fall 2020
 
 
-## Johannes Gutenberg_Universität Mainz
+## Johannes Gutenberg-Universität Mainz
 
 *Mathematics*, 1st year  
 Teaching assistant for Reyn van Ewijk  
