@@ -10,7 +10,7 @@ author_profile: true
 ## Toulouse School of Economics
 
 *Advanced Econometrics*, 4th year  
-Teaching assistant for Pascal Lavergne \& Francois Poinas  
+Teaching assistant for Pascal Lavergne & Francois Poinas  
 Fall 2021, Fall 2020  
 
 *Applied Econometrics*, 4th year  
@@ -18,7 +18,7 @@ Teaching assistant for Olivier de Groote
 Spring 2020
 
 *Introductory Econometrics*, 3rd year  
-Teaching assistant for Thierry Magnac \& Stephane Gregoir  
+Teaching assistant for Thierry Magnac & Stephane Gregoir  
 Spring 2020
 
 
@@ -28,7 +28,7 @@ Spring 2020
 Teaching assistant, Fall 2020
 
 
-## Johannes Gutenberg Universität Mainz
+## Johannes Gutenberg_Universität Mainz
 
 *Mathematics*, 1st year  
 Teaching assistant for Reyn van Ewijk  
