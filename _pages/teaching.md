@@ -21,18 +21,12 @@ Spring 2020
 Teaching assistant for Thierry Magnac \& Stephane Gregoir  
 Spring 2020
 
----
-
-<br>
 
 ## Université Toulouse 1 Capitole
 
 *Microeconomics*, 1st year  
 Teaching assistant, Fall 2020
 
----
-
-<br>
 
 ## Johannes Gutenberg Universität Mainz
 
