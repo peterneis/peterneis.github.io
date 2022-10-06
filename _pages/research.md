@@ -16,14 +16,15 @@ Ulyssea (2018) estimated a structural model looking at the intensive (formal fir
 
 
 
+## [Just Water? Environmental Jurisprudence, Water Quality, and Infant Mortality in India](../files/Draft_Water_Pollution_2022.pdf)
+*(with S. Bhupatiraju, D. L. Chen, S. Joshi, & S. Singh)*  
+Toxic ambient water can be deadly, particularly in developing countries where pollution levels are high. We explore the impacts of judicial policies on surface water quality in India. We compile court cases, judges’ cases histories, river pollution and child mortality at the district level. Leveraging random judge assignment, we estimate the effect of “green” verdicts on district-level pollution in India. We find that rulings precipitated immediate reductions in surface water pollution, particularly in the Ganga River basin. Effects are confined to the year of the ruling and not persistent. We also find limited impacts on neonatal and infant mortality.
+
+
+
 ## [Impact of free legal search on rule of law: evidence from Indian Kanoon](../files/Draft_Indian_Kanoon_2022.pdf)
 (*with S. Bhupatiraju, D. L. Chen, R. Das & S. Joshi*)  
 Access to legal information is limited in many parts of the world. Can digital platforms offering free legal search reduce market-level constraints on economic development? We explore this question by estimating the impact of India's Kanoon, a free legal search engine on cases, courts and firms. We use a simple event study framework that exploits the staggered rollout of the platform across different states. We find a variety of impacts. In the high courts, Kanoon is associated with a 1--2\% increased likelihood of case resolutions and an over 20\% decline in case backlog. In the district courts, the number of filings decreases during the first two years after the rollout. Cases that are appealed from the district courts are also more likely to be disposed and overturned in the years after the launch. Kanoon also appears to affect the finances of firms with positive impacts on assets and negative impacts on audit fees and bad debts. These results highlights the potential for open access platforms to be transformative for economic development.    
-
-
-## [Just Water? Environmental Jurisprudence, Water Quality, and Infant Mortality in India](../files/Draft_Water_Pollution_2022.pdf)
-*(with S. Bhupatiraju, D. L. Chen, S. Joshi, & S. Singh)*  
-Toxic ambient water can be deadly, particularly in developing countries where pollution levels are high. The failure of executive and legislative policies to address water pollution across the world have often prompted judiciaries to respond to the challenge of protecting ambient water. We explore the impacts of judicial policies on surface water quality in India. We construct a novel dataset that combines court cases, histories of judges, surface-water pollution, child mortality and socio-economic development at the district level. We use an instrumental variables framework to exploit the process of random judge assignment within the Indian justice system to estimate the effect of "green" rulings on district-level pollution in India. We find that the rulings precipitated immediate reductions in surface water pollution, particularly in the Ganga river basin. These effects, however, are confined to the year of the ruling and do not show persistence. We also find limited impacts on neonatal and infant mortality. This is suggestive evidence that judicial policies can succeed in lowering short-term pollution, but the broader problems of environmental governance limit the power of judiciaries in environmental protection.
 
 
 ## [Who is in justice? Caste, religion and gender in the courts of Bihar over a decade](../files/Draft_Patna.pdf)
