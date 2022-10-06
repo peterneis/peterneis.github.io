@@ -7,10 +7,28 @@ layout: null
     <url>
         <loc>{{ site.url }}</loc>
     </url>
-    
-    {% for page in site.pages %}
     <url>
-        <loc>{{ site.url }}{{ page.url }}</loc>
+        <loc>https://peterneis.github.io/research/</loc>
     </url>
-    {% endfor %}
+    <url>
+        <loc>https://peterneis.github.io/files/Draft_Water_Pollution_2022.pdf</loc>
+    </url>
+    <url>
+        <loc>https://peterneis.github.io/files/Draft_Indian_Kanoon_2022.pdf</loc>
+    </url>
+    <url>
+        <loc>https://peterneis.github.io/files/Draft_Patna.pdf</loc>
+    </url>
+    <url>
+        <loc>https://peterneis.github.io/teaching/</loc>
+    </url>
+    <url>
+        <loc>https://peterneis.github.io/files/NEIS_CV_short.pdf</loc>
+    </url>
+    <url>
+        <loc>https://peterneis.github.io/sitemap/</loc>
+    </url>
+    <url>
+        <loc>https://peterneis.github.io/404.html</loc>
+    </url>
 </urlset>
