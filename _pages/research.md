@@ -11,7 +11,7 @@ author_profile: true
 {% include base_path %}
 
 
-## Courts, Firms, and Informality (Job Market Paper)
+## [Courts, Firms, and Informality (Job Market Paper)](../files/Neis_Peter_JMP.pdf)
 Ulyssea (2018) estimated a structural model looking at the intensive (formal firms hiring informal workers) and extensive (firms becoming informal) margins of informality. Other authors suggest higher court productivity (less congestion, faster disposals) leads to more bank credits, better contract enforcement, property rights, etc. The paper discusses the extensive and intensive margin impacts when court productivity increases in the specific case of India. In theory, these different channels could lead to more formal firms (due to better contract enforcement, access to finance, etc) with more informal workers (formal workers more likely to go to court).
 
 
