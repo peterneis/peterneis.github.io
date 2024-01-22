@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in economics at the the Centre d’Etudes et de Recherches sur le Développement International (CERDI).
+I am a postdoctoral researcher in economics at the Centre d’Etudes et de Recherches sur le Développement International (CERDI).
 
 My research interests are focused on **Development Economics**, **Law & Economics** and **Applied Microeconometrics**.
 
