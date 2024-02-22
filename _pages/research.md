@@ -22,9 +22,9 @@ This study investigates the impact of judicial enforcement on environmental outc
 
 
 
-## [Impact of free legal search on rule of law: evidence from Indian Kanoon](../files/Draft_Indian_Kanoon_2022.pdf)
-(*with S. Bhupatiraju, D. L. Chen, R. Das & S. Joshi*)  
-Access to legal information is limited in many parts of the world. Can digital platforms offering free legal search reduce market-level constraints on economic development? We explore this question by estimating the impact of India's Kanoon, a free legal search engine on cases, courts and firms. We use a simple event study framework that exploits the staggered rollout of the platform across different states. We find a variety of impacts. In the high courts, Kanoon is associated with a 1--2\% increased likelihood of case resolutions and an over 20\% decline in case backlog. In the district courts, the number of filings decreases during the first two years after the rollout. Cases that are appealed from the district courts are also more likely to be disposed and overturned in the years after the launch. Kanoon also appears to affect the finances of firms with positive impacts on assets and negative impacts on audit fees and bad debts. These results highlights the potential for open access platforms to be transformative for economic development.    
+## [Impact of free legal search on rule of law: evidence from Indian Kanoon](../files/Bhupatiraju_et-al_2024_Indian_Kanoon.pdf)
+(*with S. Bhupatiraju, D. L. Chen & S. Joshi*)  
+This paper examines the role of digital platforms, specifically Indian Kanoon, in providing free legal search services and their impact on overcoming economic barriers at the market level. Utilizing a generalized difference-in-differences approach, our analysis reveals that the staggered rollout of Kanoon has significantly improved access to justice and court efficiency without compromising decision quality. Notably, the advent of Kanoon has instigated profound financial alterations in firms, evidenced by marked increases in assets, income, and expenditures. These effects were observed not only in litigating firms but across the wider business spectrum. Consequently, this study sheds light on the pivotal role of unrestricted access to legal information in driving economic progress.    
 
 
 ## [Who is in justice? Caste, religion and gender in the courts of Bihar over a decade](../files/Draft_Patna.pdf)
