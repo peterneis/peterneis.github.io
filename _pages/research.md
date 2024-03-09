@@ -16,7 +16,7 @@ Ulyssea (2018) estimated a structural model looking at the intensive (formal fir
 
 
 
-## [Litigation as Scrutiny: A Four Decade Analysis of Environmental Justice, Firms, and Pollution in India](../files/Bhupatiraju_et-al_2024_Litigation-as-scrutiny.pdf)
+## [Environmental Litigation as Scrutiny: A Four Decade Analysis of Justice, Firms, and Pollution in India](../files/Bhupatiraju_et-al_2024_Litigation-as-scrutiny.pdf)
 *(with S. Bhupatiraju, D. L. Chen, S. Joshi, & S. Singh)*  
 This study investigates the impact of judicial enforcement on environmental outcomes in India, using a unique dataset spanning four decades that includes court cases, pollution data, corporate finances, and infant mortality rates. Leveraging the quasi-random assignment of cases to judges and their writing styles, we find evidence consistent with litigation as scrutiny. Findings show that environmental litigation leads to temporary reductions in pollution and affects firm performance during legal proceedings. However, pollution levels rebound post-litigation, with no significant effect at anytime on infant mortality. This highlights the limited efficacy of judicial environmental interventions in highly polluted contexts like India.
 
