@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in economics at the Centre d’Etudes et de Recherches sur le Développement International (CERDI).
+I am a postdoctoral researcher in economics at the Centre d’Etudes et de Recherches sur le Développement International (CERDI). This fall and winter I am visiting McCourt School of Public Policy at Georgetown University.
 
-My research interests are focused on **Development Economics**, **Law & Economics** and **Applied Microeconometrics**.
+My research interests are focused on **Development Economics**, **Law & Economics**, **Environmental Economics** and **Applied Microeconometrics**.
 
 Broadly, I am interested in understanding how judiciaries around the world (with a particular focus on India) influence (economic) development.
 
