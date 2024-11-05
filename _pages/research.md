@@ -25,7 +25,7 @@ author_profile: true
 **[Environmental Litigation as Scrutiny: A Four Decade Analysis of Justice, Firms, and Pollution in India](../files/Bhupatiraju_et-al_2024_Litigation-as-scrutiny.pdf)**
 (with S. Bhupatiraju, D. L. Chen, S. Joshi, & S. Singh). Submitted.
 
-**[Islamophobia in the Justice System and Judicial Mitigation in Bihar, India](../files/Bhupatiraju_et-al_2024_Patna_Muslim.pdf)**
+**[Legal Disparities and Judicial Corrections: Muslim Petitioners in an Indian High Court](../files/Bhupatiraju_et-al_2024_Patna_Muslim.pdf)**
 (with S. Bhupatiraju, D. L. Chen, & S. Joshi). Submitted.
 
 **[Courts, Firms, and Informality (Job Market Paper)](../files/Neis_Peter_JMP.pdf)**
