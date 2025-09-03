@@ -8,12 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in economics at the Centre d’Etudes et de Recherches sur le Développement International (CERDI). This fall and winter I am visiting McCourt School of Public Policy at Georgetown University.
+I'm a postdoctoral researcher in economics at the **Centre d’Etudes et de Recherches sur le Développement International (CERDI)**. I hold a PhD **from the Toulouse School of Economics** and have held visiting researcher positions at the Department of Economics at the **University of Zurich** (2022) and the McCourt School of Public Policy at **Georgetown University** (2024/25).
 
-My research interests are focused on **Development Economics**, **Law & Economics**, **Environmental Economics** and **Applied Microeconometrics**.
+My research focuses on the intersetion of **Development Economics**, **Law & Economics**, **Environmental Economics** and **Applied Microeconometrics**. I'm particularly interested in how judicial systems, with a focus on India, influence economic development. Specifically, my work explores the interaction between formal and informal legal institutions, the interplay between the judiciary and other government branches, and the capacity of courts to address issues left unaddressed by legislators.
 
-Broadly, I am interested in understanding how judiciaries around the world (with a particular focus on India) influence (economic) development.
-
-Specifically, I am fascinated by questions related to the role of the judicial system in societies. How do formal and informal legal institutions interact? What is the interplay between judicial systems and other branches of government? Can the judicial system fill the void left by inactive legislators on many topics? And how does this impact development?
-
-Please reach out in case you have any questions or want to talk about research: peter.neis@uca.fr.
+Please feel free to reach out if you have any questions or would like to discuss my research: : peter.neis@uca.fr.
