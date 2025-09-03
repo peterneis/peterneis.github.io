@@ -23,7 +23,7 @@ author_profile: true
 (with S. Bhupatiraju, D. L. Chen & S. Joshi). Revise and Resubmit, *Journal of the European Economic Association*.
 
 **[Environmental Litigation as Scrutiny: A Four Decade Analysis of Justice, Firms, and Pollution in India](../files/Bhupatiraju_et-al_2024_Litigation-as-scrutiny.pdf)**
-(with S. Bhupatiraju, D. L. Chen, S. Joshi, & S. Singh). Submitted.
+(with S. Bhupatiraju, D. L. Chen, S. Joshi, & S. Singh). Revise and Resubmit, *Journal of Environmental Economics and Management*.
 
 **[Legal Disparities and Judicial Corrections: Muslim Petitioners in an Indian High Court](../files/Bhupatiraju_et-al_2024_Patna_Muslim.pdf)**
 (with S. Bhupatiraju, D. L. Chen, & S. Joshi). Submitted.
