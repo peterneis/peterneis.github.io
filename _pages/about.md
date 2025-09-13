@@ -12,4 +12,4 @@ I'm a postdoctoral researcher in economics at the **Centre d’Etudes et de Rech
 
 My research focuses on the intersetion of **Development Economics**, **Law & Economics**, **Environmental Economics** and **Applied Microeconometrics**. I'm particularly interested in how judicial systems, with a focus on India, influence economic development. Specifically, my work explores the interaction between formal and informal legal institutions, the interplay between the judiciary and other government branches, and the capacity of courts to address issues left unaddressed by legislators.
 
-Please feel free to reach out if you have any questions or would like to discuss my research: : peter.neis@uca.fr.
+Please feel free to reach out if you have any questions or would like to discuss my research: : peter.neis@outlook.com.
