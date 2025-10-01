@@ -19,6 +19,8 @@ author_profile: true
 
 
 ## Working Papers
+**[Courts, Firms, and Informality](../files/Neis_Peter_JMP.pdf)**
+
 **[Impact of free legal search on rule of law: evidence from Indian Kanoon](../files/Bhupatiraju_et-al_2024_Indian_Kanoon.pdf)**
 (with S. Bhupatiraju, D. L. Chen & S. Joshi). Revise and Resubmit, *Journal of the European Economic Association*.
 
@@ -28,12 +30,10 @@ author_profile: true
 **[Legal Disparities and Judicial Corrections: Muslim Petitioners in an Indian High Court](../files/Bhupatiraju_et-al_2024_Patna_Muslim.pdf)**
 (with S. Bhupatiraju, D. L. Chen, & S. Joshi). Submitted.
 
-**[Courts, Firms, and Informality (Job Market Paper)](../files/Neis_Peter_JMP.pdf)**
+**Enforcement, Courts, and Informal Labor: Capacity and Choice Across Countries** (with D. L. Chen & J. Lee). Submitted.
 
 
 ## Work in Progress:
 **Determinants of Court Productivity in Highly Congested Settings: Evidence from India**
-
-**Courts and Informality Across Countries** (with D. L. Chen & J. Lee)
 
 **Judges, Points and Old Cases: Dynamic Incentives in Indian Lower Courts** (with S. Bhupatiraju & D. L. Chen)
