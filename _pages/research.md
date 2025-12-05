@@ -19,7 +19,8 @@ author_profile: true
 
 
 ## Working Papers
-**[Courts, Firms, and Informality](../files/Neis_Peter_JMP.pdf)**
+**[Courts, Firms, and Informality](../files/Neis_Peter_JMP.pdf)**  
+Honorable mention CELS 2025 poster award.
 
 **[Impact of free legal search on rule of law: evidence from Indian Kanoon](../files/Bhupatiraju_et-al_2024_Indian_Kanoon.pdf)**
 (with S. Bhupatiraju, D. L. Chen & S. Joshi). Revise and Resubmit, *Journal of the European Economic Association*.
