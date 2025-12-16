@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(del \"CHANGELOG.md\")",
+      "Bash(del \"CONTRIBUTING.md\")",
+      "Bash(del \"_includes\\analytics - old.html\")",
+      "Bash(del \"_pages\\terms.md\")",
+      "Bash(del \"_pages\\sitemap.md\")",
+      "Bash(del \"_pages\\cv.md\")",
+      "Bash(del \"_includes\\comments.html\")",
+      "Bash(del \"_includes\\comment.html\")",
+      "Bash(del \"_layouts\\talk.html\")",
+      "Bash(del \"_includes\\archive-single-talk.html\")",
+      "Bash(del \"_includes\\archive-single-talk-cv.html\")",
+      "Bash(del \"_layouts\\archive-taxonomy.html\")",
+      "Bash(rm:*)"
+    ]
+  }
+}
