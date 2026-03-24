@@ -4,11 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
 
 ## Publications:
 **[Caste Aside? Names, Networks and Justice in the Courts of Bihar, India](https://publicera.kb.se/ejels/article/view/23821/26260)**
