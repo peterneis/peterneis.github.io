@@ -1,0 +1,119 @@
+:root {
+  --bg: #ffffff;
+  --text: #1f2328;
+  --muted: #5b636e;
+  --accent: #1d5c96;
+  --rule: #e3e6ea;
+  --abstract-bg: #f5f7f9;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #15181c;
+    --text: #e4e7eb;
+    --muted: #9aa3ad;
+    --accent: #7db4e6;
+    --rule: #2c3238;
+    --abstract-bg: #1d2126;
+  }
+}
+
+* { box-sizing: border-box; }
+
+html { font-size: 13px; -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.wrap {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 64px 24px;
+}
+
+header h1 {
+  font-size: 2rem;
+  line-height: 1.2;
+  margin: 0 0 24px;
+}
+
+.links { margin: 0; }
+
+/* Main content */
+.intro p:first-of-type { margin-top: 0; }
+
+.intro::after { content: ""; display: block; clear: both; }
+
+.photo {
+  float: right;
+  width: 150px;
+  height: auto;
+  margin: 4px 0 12px 24px;
+}
+
+h2 {
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 6px;
+  margin: 48px 0 20px;
+}
+
+.paper { margin: 0 0 24px; }
+
+.paper h3 {
+  font-size: 1.05rem;
+  line-height: 1.4;
+  margin: 0;
+}
+
+.paper h3 a { color: var(--text); }
+.paper h3 a:hover { color: var(--accent); }
+
+.paper .meta {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin: 2px 0 0;
+}
+
+.paper .note {
+  font-size: 0.95rem;
+  margin: 2px 0 0;
+}
+
+details { margin-top: 6px; }
+
+summary {
+  cursor: pointer;
+  color: var(--accent);
+  font-size: 0.9rem;
+  width: fit-content;
+}
+
+details p {
+  background: var(--abstract-bg);
+  border-left: 3px solid var(--accent);
+  padding: 12px 16px;
+  margin: 8px 0 0;
+  font-size: 0.95rem;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .wrap { padding: 32px 16px; }
+  header h1 { font-size: 1.7rem; }
+  .photo { width: 110px; margin-left: 16px; }
+  h2 { margin-top: 36px; }
+}
